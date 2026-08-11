@@ -1,0 +1,4 @@
+interface:
+  display_name: "朋友圈文案生成"
+  short_description: "理解文字或图片背后的意图，生成自然贴切的朋友圈文案"
+  default_prompt: "使用 $write-pengyouquan-caption 根据这段文字或图片生成三条朋友圈文案。"
